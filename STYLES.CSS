@@ -43,7 +43,7 @@
     align-items: center;
     justify-content: center;
     background: var(--primary);
-    color: white;
+    color: blue;
     padding: calc(var(--gap) * 2);
     border-radius: 0.5rem;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
